@@ -5,7 +5,5 @@ target 'SGView_Example' do
 
   target 'SGView_Tests' do
     inherit! :search_paths
-
-    
   end
 end

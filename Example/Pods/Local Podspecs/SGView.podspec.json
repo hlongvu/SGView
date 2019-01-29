@@ -1,0 +1,22 @@
+{
+  "name": "SGView",
+  "version": "0.1.0",
+  "summary": "Epoxy Inspired Models View Frameworks for iOS",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/klgt/SGView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "klgt": "hlongvu0201@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/klgt/SGView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SGView/Classes/**/*"
+}

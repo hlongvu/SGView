@@ -22,7 +22,7 @@ pod 'SGView'
 
 ## Author
 
-klgt, hlongvu0201@gmail.com
+hlongvu, hlongvu@gmail.com
 
 ## License
 

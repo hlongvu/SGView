@@ -1,0 +1,6 @@
+framework module SGView {
+  umbrella header "SGView-umbrella.h"
+
+  export *
+  module * { export * }
+}
