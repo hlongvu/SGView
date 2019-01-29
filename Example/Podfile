@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SGView_Example' do
+  pod 'SGView', :path => '../'
+
+  target 'SGView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
