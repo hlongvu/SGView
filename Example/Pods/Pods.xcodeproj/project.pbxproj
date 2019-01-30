@@ -42,7 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0CD503EB41A740650D861EAB297EF8C8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		0CD503EB41A740650D861EAB297EF8C8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		0D5029934E0141E8C6EB098D5F1039C3 /* AdapterDiffUpdate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AdapterDiffUpdate.swift; sourceTree = "<group>"; };
 		131C3EEAB6D76A50C5443CE37EEA3200 /* Pods-SGView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SGView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		1DC3649AAE3E5FFE66A6B505CBD9B802 /* SGAdapter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SGAdapter.swift; path = SGView/Classes/SGAdapter.swift; sourceTree = "<group>"; };
@@ -57,25 +57,25 @@
 		634C7A5C726C7CC8D0DCF04EBF425224 /* SGView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SGView-prefix.pch"; sourceTree = "<group>"; };
 		68C46119DC605C59235A6B230AC10C35 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6D3614BD97DD04183A141595118524B7 /* Pods-SGView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SGView_Tests-umbrella.h"; sourceTree = "<group>"; };
-		6E9249673E7E794419123BAB7AB24CCA /* SGView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = SGView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		6E9249673E7E794419123BAB7AB24CCA /* SGView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = SGView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		736AC42EDD3B35FEF023FA2A7D992123 /* Pods-SGView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SGView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		7412359490C022459366BD3EFC38A092 /* Pods-SGView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SGView_Example-umbrella.h"; sourceTree = "<group>"; };
 		7A63FBFD6DF900B88F239F7EB3EC0ACD /* Pods-SGView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SGView_Example-dummy.m"; sourceTree = "<group>"; };
-		7C6895A94A67CA65C08408A668D2A42E /* Pods_SGView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SGView_Tests.framework; path = "Pods-SGView_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7C6895A94A67CA65C08408A668D2A42E /* Pods_SGView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SGView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CA2ED0BDCF74B3043A58AF0EB7A41A9 /* Pods-SGView_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SGView_Tests-resources.sh"; sourceTree = "<group>"; };
 		7E881643A774C27019378C37DF87512D /* TypeName.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TypeName.swift; path = SGView/Classes/TypeName.swift; sourceTree = "<group>"; };
 		844E2572D30342EBDF224F46C118843D /* Pods-SGView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SGView_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		896857351E1AD928A3F2A71E14FEAAB3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		896857351E1AD928A3F2A71E14FEAAB3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		93994E511F270BAE17C63B1C9C1E6E1B /* SGView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SGView-dummy.m"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		982D6C190C2A56B90E0975CDF8B0D8FB /* Pods-SGView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SGView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		9852DDC9C93B4DF403774DFAE50908DF /* Pods-SGView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SGView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		9AC071AC6D3F6CDF4821374777ED6A94 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9D74739CC12BAC2AE447D254E2429DCD /* Pods-SGView_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SGView_Example-resources.sh"; sourceTree = "<group>"; };
 		A9EC761802815539B5A5B33135B3149B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ADD86151EC47139AB8DEB8BFDF065B43 /* Pods-SGView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SGView_Example-frameworks.sh"; sourceTree = "<group>"; };
-		AEBEFB8BDC9D89D92E6EE80B769BDA4E /* Pods_SGView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SGView_Example.framework; path = "Pods-SGView_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C1743D5B8405319A90109EBF6B0C64F8 /* SGView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SGView.framework; path = SGView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AEBEFB8BDC9D89D92E6EE80B769BDA4E /* Pods_SGView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SGView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C1743D5B8405319A90109EBF6B0C64F8 /* SGView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SGView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEF31DBA6B14CD46DA35AE37AD45980A /* SGModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SGModel.swift; path = SGView/Classes/SGModel.swift; sourceTree = "<group>"; };
 		CF36B47CFE26ADBA70E5A3A7D85302B3 /* Pods-SGView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SGView_Tests-dummy.m"; sourceTree = "<group>"; };
 		D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -455,7 +455,7 @@
 				INFOPLIST_FILE = "Target Support Files/SGView/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/SGView/SGView.modulemap";
 				PRODUCT_MODULE_NAME = SGView;
 				PRODUCT_NAME = SGView;
@@ -621,7 +621,7 @@
 				INFOPLIST_FILE = "Target Support Files/SGView/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/SGView/SGView.modulemap";
 				PRODUCT_MODULE_NAME = SGView;
 				PRODUCT_NAME = SGView;
@@ -760,8 +760,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
